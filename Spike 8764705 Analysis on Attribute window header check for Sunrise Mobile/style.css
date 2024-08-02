@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #333;
+    font-weight: 600;
+}
+
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border-bottom: 1px solid #E1E9EF;
+    gap: 0.5rem;
+    background-color: #F8FAFB;
+    padding: 0.75rem 1rem 0.875rem 1rem;
+}
