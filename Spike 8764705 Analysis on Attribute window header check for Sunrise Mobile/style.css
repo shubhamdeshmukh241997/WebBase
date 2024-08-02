@@ -25,3 +25,9 @@ p {
     background-color: #F8FAFB;
     padding: 0.75rem 1rem 0.875rem 1rem;
 }
+
+.btn{
+    border: none;
+    background: none;
+    cursor: pointer;
+}
